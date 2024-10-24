@@ -1,0 +1,9 @@
+name = "trust_Game"
+
+[tajriba.auth]
+srtoken = "EqYZkXbpYBiELALy"
+
+[[tajriba.auth.users]]
+name = "Admin"
+username = "admin"
+password = "OoZpipgC"
